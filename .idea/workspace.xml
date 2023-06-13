@@ -5,20 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de47a867-26e2-482e-9794-b3ebd62a4cb4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebCam-Face-Emotion-Detection-Streamlit-main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/emotion_model1.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/emotion_model1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentación/Problema planteado.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentación/Propuesta de solución.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manual de uso/Pasos a seguir.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto/.idea/WebCam-Face-Emotion-Detection-Streamlit-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proyecto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebCam-Face-Emotion-Detection-Streamlit-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebCam-Face-Emotion-Detection-Streamlit-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/app1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emotion_model1.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/emotion_model1.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emotion_model1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/emotion_model1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/setup.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
