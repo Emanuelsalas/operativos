@@ -1,13 +1,13 @@
-# Face Recognition Server
-This repository contains a server-side code implementation for performing facial recognition using deep learning models. The server allows clients to send images and receive predictions about the identities of the faces present in those images.
+# Servidor de Reconocimiento Facial
+Este repositorio contiene una implementación de código del lado del servidor para realizar reconocimiento facial utilizando modelos de aprendizaje profundo. El servidor permite a los clientes enviar imágenes y recibir predicciones sobre las identidades de las caras presentes en esas imágenes.
 
-Features
-Facial Recognition: The server utilizes deep learning algorithms to recognize faces in images and provides predictions about their identities.
-1. Client-Server Architecture: Clients can send images to the server via API calls and receive predictions in response.
-2. Scalability: The server is designed to handle multiple client requests simultaneously, making it suitable for deployment in production environments.
-3. Model Management: The code includes functionality for managing and updating the facial recognition model.
-4. Logging and Monitoring: The server logs events and errors, enabling monitoring and troubleshooting.
-## Requirements
+## Caracteristicas
+1. Reconocimiento Facial: El servidor utiliza algoritmos de aprendizaje profundo para reconocer caras en imágenes y proporciona predicciones sobre sus identidades.
+2. Arquitectura Cliente-Servidor: Los clientes pueden enviar imágenes al servidor a través de llamadas API y recibir predicciones como respuesta.
+3. Escalabilidad: El servidor está diseñado para manejar múltiples solicitudes de clientes simultáneamente, lo que lo hace adecuado para implementaciones en entornos de producción.
+4. Gestión de Modelos: El código incluye funcionalidades para administrar y actualizar el modelo de reconocimiento facial.
+5. Registro y Monitoreo: El servidor registra eventos y errores, lo que permite el monitoreo y la solución de problemas.
+## Requisitos
 1. Python 3.x
 2. Flask
 3. TensorFlow
