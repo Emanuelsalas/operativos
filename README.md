@@ -3,8 +3,8 @@ This repository contains a server-side code implementation for performing facial
 
 Features
 Facial Recognition: The server utilizes deep learning algorithms to recognize faces in images and provides predictions about their identities.
-Client-Server Architecture: Clients can send images to the server via API calls and receive predictions in response.
-Scalability: The server is designed to handle multiple client requests simultaneously, making it suitable for deployment in production environments.
+1. Client-Server Architecture: Clients can send images to the server via API calls and receive predictions in response.
+2, Scalability: The server is designed to handle multiple client requests simultaneously, making it suitable for deployment in production environments.
 Model Management: The code includes functionality for managing and updating the facial recognition model.
 Logging and Monitoring: The server logs events and errors, enabling monitoring and troubleshooting.
 Requirements
