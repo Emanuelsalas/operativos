@@ -1,0 +1,8 @@
+
+Se logro obtener una pagina web que pueda leer las imagenes de la camara web en tiempo real y reconocer rostros, además analiza la imagen y mediante un analsis del rostro devuelve una etiqueta que dice si la persona esta interesada, aburrida o neutral. 
+
+Usando una aplicación web con codigo de Python se creo un modelo de analis de Deep Learning, el cual fue entrenado con alrededor de 6000 imagenes obtenidas de Kaggle, despues se procedio a entrenar el modelo para que asignara etiquetas a las imagenes basado en 3 estados, interesado, desinteresado y neutral. El modelo aprendio a reconocer y imagenes y a mostrar el resultado de analizarlas.
+
+Lamentablemente no se logro cumplir el objetivo de asignar esta aplicación a una plataforma como Zoom o Google Meets. Pero si se logro crear una herramienta funcional de analizis de sentimientos.
+
+En terminos generales se logro cumplir con la mayoria de objetivos de forma parcial, la aplicación de analizis de sentimientos es completamente funcional pero no se logro conectar con una aplicación de videollamadas.
