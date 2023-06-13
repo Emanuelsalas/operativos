@@ -1,0 +1,10 @@
+Los pasos del 1 hasta el 5 se hacen en la terminal de python,
+
+1. pip install streamlit-webrtc
+2. streamlit run your_app_script.py
+3. pip install --upgrade tensorflow
+4. pip install --upgrade numpy
+5. pip install --upgrade tensorflow keras
+6. pip install opencv-python
+7. En el powerhell ejecutar:
+streamlit run (aquí se pone su propia ruta de proyecto, dejo un ejemplo) C:/Users/emmas/Documents/AI/proyecto/WebCam-Face-Emotion-Detection-Streamlit-main/app1.py [ARGUMENTS]
